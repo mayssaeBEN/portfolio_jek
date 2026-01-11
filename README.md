@@ -17,5 +17,9 @@ Le portfolio est composé de plusieurs pages distinctes:
 ---
 ## Démo en ligne 
 Site publié via GitHub Pages :
-**
+**https://github.com/mayssaeBEN/portfolio_jek.git**
+---
+## Dépôt GitHub
+Code source du project :
+**https://github.com/mayssaeBEN/portfolio_jek.git**
 
